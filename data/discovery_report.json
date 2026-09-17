@@ -1,0 +1,2087 @@
+{
+  "timestamp": "2026-09-17T06:41:14.410Z",
+  "total": 231,
+  "foundCount": 54,
+  "fallbackCount": 177,
+  "matches": [
+    {
+      "skuId": "cpu-i5-12400f",
+      "skuName": "Intel Core i5-12400F (Tray/Box)",
+      "matchedUrl": "https://kccshop.vn/?s=Core%20i5%2012400F",
+      "priceVnd": 2370000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-12400f",
+      "skuName": "Intel Core i5-12400F (Tray/Box)",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Core%20i5%2012400F",
+      "priceVnd": 2390000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-12400f",
+      "skuName": "Intel Core i5-12400F (Tray/Box)",
+      "matchedUrl": "https://www.anphatpc.com.vn/cpu-intel-core-i5-12400f-intel-lga1700-6-core-12-thread-base-2.5ghz-turbo-4.4ghz-cache-18mb-no-igpu-tray-chinh-hang-chua-kem-tan-nhiet.html",
+      "priceVnd": 2440000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 68,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-i5-12400f",
+      "skuName": "Intel Core i5-12400F (Tray/Box)",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Core%20i5%2012400F",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-12400f",
+      "skuName": "Intel Core i5-12400F (Tray/Box)",
+      "matchedUrl": "https://hacom.vn/tim?q=Core%20i5%2012400F",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-12400f",
+      "skuName": "Intel Core i5-12400F (Tray/Box)",
+      "matchedUrl": "https://tiki.vn/cpu-intel-core-i5-12400f-upto-4-4ghz-6-nhan-12-luong-18mb-cache-65w-socket-intel-lga-1700-hang-chinh-hang-p159439260.html?spid=163925121",
+      "priceVnd": 5000000,
+      "stock": "OUT_OF_STOCK",
+      "confidenceScore": 77,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-i5-12400f",
+      "skuName": "Intel Core i5-12400F (Tray/Box)",
+      "matchedUrl": "https://shopee.vn/search?keyword=Core%20i5%2012400F&facet=mall",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-i5-13400f",
+      "skuName": "Intel Core i5-13400F",
+      "matchedUrl": "https://kccshop.vn/?s=Core%20i5%2013400F",
+      "priceVnd": 4150000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-13400f",
+      "skuName": "Intel Core i5-13400F",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Core%20i5%2013400F",
+      "priceVnd": 4190000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-13400f",
+      "skuName": "Intel Core i5-13400F",
+      "matchedUrl": "https://www.anphatpc.com.vn/cpu-intel-core-i5-13400f-20m-cache-up-to-4.60-ghz-10c16t-socket-1700.html",
+      "priceVnd": 4270000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-i5-13400f",
+      "skuName": "Intel Core i5-13400F",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Core%20i5%2013400F",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-13400f",
+      "skuName": "Intel Core i5-13400F",
+      "matchedUrl": "https://hacom.vn/tim?q=Core%20i5%2013400F",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-13400f",
+      "skuName": "Intel Core i5-13400F",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Core%20i5%2013400F",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-13400f",
+      "skuName": "Intel Core i5-13400F",
+      "matchedUrl": "https://shopee.vn/search?keyword=Core%20i5%2013400F&facet=mall",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-i5-14600kf",
+      "skuName": "Intel Core i5-14600KF",
+      "matchedUrl": "https://kccshop.vn/?s=Core%20i5%2014600KF",
+      "priceVnd": 6820000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-14600kf",
+      "skuName": "Intel Core i5-14600KF",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Core%20i5%2014600KF",
+      "priceVnd": 6890000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-14600kf",
+      "skuName": "Intel Core i5-14600KF",
+      "matchedUrl": "https://www.anphatpc.com.vn/cpu-intel-core-i5-14600kf-24mb-cache-up-to-5.30-ghz-14c20t-socket-1700.html",
+      "priceVnd": 7030000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-i5-14600kf",
+      "skuName": "Intel Core i5-14600KF",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Core%20i5%2014600KF",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-14600kf",
+      "skuName": "Intel Core i5-14600KF",
+      "matchedUrl": "https://hacom.vn/tim?q=Core%20i5%2014600KF",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-14600kf",
+      "skuName": "Intel Core i5-14600KF",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Core%20i5%2014600KF",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-i5-14600kf",
+      "skuName": "Intel Core i5-14600KF",
+      "matchedUrl": "https://shopee.vn/search?keyword=Core%20i5%2014600KF&facet=mall",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-r5-5600",
+      "skuName": "AMD Ryzen 5 5600",
+      "matchedUrl": "https://kccshop.vn/?s=Ryzen%205%205600",
+      "priceVnd": 2270000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-5600",
+      "skuName": "AMD Ryzen 5 5600",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Ryzen%205%205600",
+      "priceVnd": 2290000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-5600",
+      "skuName": "AMD Ryzen 5 5600",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Ryzen%205%205600",
+      "priceVnd": 2340000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-5600",
+      "skuName": "AMD Ryzen 5 5600",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Ryzen%205%205600",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-5600",
+      "skuName": "AMD Ryzen 5 5600",
+      "matchedUrl": "https://hacom.vn/tim?q=Ryzen%205%205600",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-5600",
+      "skuName": "AMD Ryzen 5 5600",
+      "matchedUrl": "https://tiki.vn/bo-vi-xu-ly-cpu-amd-ryzen-5-5600-3-5ghz-boost-4-4ghz-6-nhan-12-luong-32mb-am4-hang-chinh-hang-p275601839.html?spid=275601840",
+      "priceVnd": 7500000,
+      "stock": "OUT_OF_STOCK",
+      "confidenceScore": 100,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-r5-5600",
+      "skuName": "AMD Ryzen 5 5600",
+      "matchedUrl": "https://shopee.vn/search?keyword=Ryzen%205%205600&facet=mall",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-r5-7500f",
+      "skuName": "AMD Ryzen 5 7500F",
+      "matchedUrl": "https://kccshop.vn/?s=Ryzen%205%207500F",
+      "priceVnd": 3550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-7500f",
+      "skuName": "AMD Ryzen 5 7500F",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Ryzen%205%207500F",
+      "priceVnd": 3590000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-7500f",
+      "skuName": "AMD Ryzen 5 7500F",
+      "matchedUrl": "https://www.anphatpc.com.vn/cpu-amd-ryzen-5-7500f-tray-chinh-hang-chua-gom-tan-nhiet.html",
+      "priceVnd": 3660000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-r5-7500f",
+      "skuName": "AMD Ryzen 5 7500F",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Ryzen%205%207500F",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-7500f",
+      "skuName": "AMD Ryzen 5 7500F",
+      "matchedUrl": "https://hacom.vn/tim?q=Ryzen%205%207500F",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-7500f",
+      "skuName": "AMD Ryzen 5 7500F",
+      "matchedUrl": "https://tiki.vn/bo-vi-xu-ly-cpu-amd-ryzen-5-7500f-amd-am5-6-core-12-thread-base-3-7ghz-turbo-5-0ghz-cache-38mb-no-igpu-hang-chinh-hang-p275602384.html?spid=275602385",
+      "priceVnd": 11180000,
+      "stock": "OUT_OF_STOCK",
+      "confidenceScore": 100,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-r5-7500f",
+      "skuName": "AMD Ryzen 5 7500F",
+      "matchedUrl": "https://shopee.vn/search?keyword=Ryzen%205%207500F&facet=mall",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-r5-7600",
+      "skuName": "AMD Ryzen 5 7600",
+      "matchedUrl": "https://kccshop.vn/?s=Ryzen%205%207600",
+      "priceVnd": 4640000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-7600",
+      "skuName": "AMD Ryzen 5 7600",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Ryzen%205%207600",
+      "priceVnd": 4690000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-7600",
+      "skuName": "AMD Ryzen 5 7600",
+      "matchedUrl": "https://www.anphatpc.com.vn/cpu-amd-ryzen-5-7600-38m-cache-up-to-5.1ghz-6c12t-socket-am5.html",
+      "priceVnd": 4780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-r5-7600",
+      "skuName": "AMD Ryzen 5 7600",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Ryzen%205%207600",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-7600",
+      "skuName": "AMD Ryzen 5 7600",
+      "matchedUrl": "https://hacom.vn/tim?q=Ryzen%205%207600",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cpu-r5-7600",
+      "skuName": "AMD Ryzen 5 7600",
+      "matchedUrl": "https://tiki.vn/bo-vi-xu-ly-cpu-amd-ryzen-5-7600-amd-am5-6-core-12-thread-base-3-8ghz-turbo-5-1ghz-cache-38mb-hang-chinh-hang-p275599171.html?spid=275599172",
+      "priceVnd": 12580000,
+      "stock": "OUT_OF_STOCK",
+      "confidenceScore": 100,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cpu-r5-7600",
+      "skuName": "AMD Ryzen 5 7600",
+      "matchedUrl": "https://shopee.vn/search?keyword=Ryzen%205%207600&facet=mall",
+      "priceVnd": 1950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cooler-thermalright-pa120",
+      "skuName": "Thermalright Peerless Assassin 120 SE",
+      "matchedUrl": "https://kccshop.vn/?s=Thermalright%20Peerless%20Assassin%20120",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-thermalright-pa120",
+      "skuName": "Thermalright Peerless Assassin 120 SE",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Thermalright%20Peerless%20Assassin%20120",
+      "priceVnd": 790000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-thermalright-pa120",
+      "skuName": "Thermalright Peerless Assassin 120 SE",
+      "matchedUrl": "https://www.anphatpc.com.vn/tan-nhiet-cpu-thermalright-dual-tower-peerless-assassin-120-se_id40061.html",
+      "priceVnd": 810000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cooler-thermalright-pa120",
+      "skuName": "Thermalright Peerless Assassin 120 SE",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Thermalright%20Peerless%20Assassin%20120",
+      "priceVnd": 455000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-thermalright-pa120",
+      "skuName": "Thermalright Peerless Assassin 120 SE",
+      "matchedUrl": "https://hacom.vn/tim?q=Thermalright%20Peerless%20Assassin%20120",
+      "priceVnd": 455000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-thermalright-pa120",
+      "skuName": "Thermalright Peerless Assassin 120 SE",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Thermalright%20Peerless%20Assassin%20120",
+      "priceVnd": 455000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-thermalright-pa120",
+      "skuName": "Thermalright Peerless Assassin 120 SE",
+      "matchedUrl": "https://shopee.vn/search?keyword=Thermalright%20Peerless%20Assassin%20120&facet=mall",
+      "priceVnd": 455000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cooler-deepcool-ak400",
+      "skuName": "DeepCool AK400 Digital",
+      "matchedUrl": "https://kccshop.vn/?s=DeepCool%20AK400",
+      "priceVnd": 680000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-deepcool-ak400",
+      "skuName": "DeepCool AK400 Digital",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=DeepCool%20AK400",
+      "priceVnd": 690000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-deepcool-ak400",
+      "skuName": "DeepCool AK400 Digital",
+      "matchedUrl": "https://www.anphatpc.com.vn/tan-nhiet-khi-deepcool-ak400-digital-se.html",
+      "priceVnd": 700000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "cooler-deepcool-ak400",
+      "skuName": "DeepCool AK400 Digital",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=DeepCool%20AK400",
+      "priceVnd": 455000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-deepcool-ak400",
+      "skuName": "DeepCool AK400 Digital",
+      "matchedUrl": "https://hacom.vn/tim?q=DeepCool%20AK400",
+      "priceVnd": 455000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-deepcool-ak400",
+      "skuName": "DeepCool AK400 Digital",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=DeepCool%20AK400",
+      "priceVnd": 455000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "cooler-deepcool-ak400",
+      "skuName": "DeepCool AK400 Digital",
+      "matchedUrl": "https://shopee.vn/search?keyword=DeepCool%20AK400&facet=mall",
+      "priceVnd": 455000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rtx-3050-6g",
+      "skuName": "ASUS Dual GeForce RTX 3050 6GB",
+      "matchedUrl": "https://kccshop.vn/?s=RTX%203050%206GB",
+      "priceVnd": 4350000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-3050-6g",
+      "skuName": "ASUS Dual GeForce RTX 3050 6GB",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=RTX%203050%206GB",
+      "priceVnd": 4390000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-3050-6g",
+      "skuName": "ASUS Dual GeForce RTX 3050 6GB",
+      "matchedUrl": "https://www.anphatpc.com.vn/vga-asus-dual-rtx-3050-6gb-dual-rtx3050-6g.html",
+      "priceVnd": 4480000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 68,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rtx-3050-6g",
+      "skuName": "ASUS Dual GeForce RTX 3050 6GB",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=RTX%203050%206GB",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-3050-6g",
+      "skuName": "ASUS Dual GeForce RTX 3050 6GB",
+      "matchedUrl": "https://hacom.vn/tim?q=RTX%203050%206GB",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-3050-6g",
+      "skuName": "ASUS Dual GeForce RTX 3050 6GB",
+      "matchedUrl": "https://tiki.vn/card-man-hinh-vga-inno3d-geforce-rtx-3050-6gb-twin-x2-v2-hang-chinh-hang-p279186459.html?spid=279186460",
+      "priceVnd": 5700000,
+      "stock": "OUT_OF_STOCK",
+      "confidenceScore": 77,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rtx-3050-6g",
+      "skuName": "ASUS Dual GeForce RTX 3050 6GB",
+      "matchedUrl": "https://shopee.vn/search?keyword=RTX%203050%206GB&facet=mall",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rx-6600-8g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 6600 8GB",
+      "matchedUrl": "https://kccshop.vn/?s=Radeon%20RX%206600",
+      "priceVnd": 4840000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-6600-8g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 6600 8GB",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Radeon%20RX%206600",
+      "priceVnd": 4890000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-6600-8g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 6600 8GB",
+      "matchedUrl": "https://www.anphatpc.com.vn/vga-asrock-radeon-rx-6600-challenger-d-8gb-gddr6-rx6600-cld-8g.html",
+      "priceVnd": 4990000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 50,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rx-6600-8g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 6600 8GB",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Radeon%20RX%206600",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-6600-8g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 6600 8GB",
+      "matchedUrl": "https://hacom.vn/tim?q=Radeon%20RX%206600",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-6600-8g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 6600 8GB",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Radeon%20RX%206600",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-6600-8g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 6600 8GB",
+      "matchedUrl": "https://shopee.vn/search?keyword=Radeon%20RX%206600&facet=mall",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rtx-4060-8g",
+      "skuName": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G",
+      "matchedUrl": "https://kccshop.vn/?s=GeForce%20RTX%204060",
+      "priceVnd": 7510000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060-8g",
+      "skuName": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=GeForce%20RTX%204060",
+      "priceVnd": 7590000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060-8g",
+      "skuName": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=GeForce%20RTX%204060",
+      "priceVnd": 7740000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060-8g",
+      "skuName": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=GeForce%20RTX%204060",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060-8g",
+      "skuName": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G",
+      "matchedUrl": "https://hacom.vn/tim?q=GeForce%20RTX%204060",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060-8g",
+      "skuName": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=GeForce%20RTX%204060",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060-8g",
+      "skuName": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G",
+      "matchedUrl": "https://shopee.vn/search?keyword=GeForce%20RTX%204060&facet=mall",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rtx-4060ti-8g",
+      "skuName": "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 8G",
+      "matchedUrl": "https://kccshop.vn/?s=GeForce%20RTX%204060%20Ti",
+      "priceVnd": 10190000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060ti-8g",
+      "skuName": "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 8G",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=GeForce%20RTX%204060%20Ti",
+      "priceVnd": 10290000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060ti-8g",
+      "skuName": "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 8G",
+      "matchedUrl": "https://www.anphatpc.com.vn/vga-msi-geforce-rtx-4060-ti-ventus-2x-black-8gb-oc.html",
+      "priceVnd": 10500000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 54,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rtx-4060ti-8g",
+      "skuName": "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 8G",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=GeForce%20RTX%204060%20Ti",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060ti-8g",
+      "skuName": "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 8G",
+      "matchedUrl": "https://hacom.vn/tim?q=GeForce%20RTX%204060%20Ti",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060ti-8g",
+      "skuName": "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 8G",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=GeForce%20RTX%204060%20Ti",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4060ti-8g",
+      "skuName": "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 8G",
+      "matchedUrl": "https://shopee.vn/search?keyword=GeForce%20RTX%204060%20Ti&facet=mall",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rx-7700xt-12g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 7700 XT 12GB",
+      "matchedUrl": "https://kccshop.vn/?s=Radeon%20RX%207700%20XT",
+      "priceVnd": 11380000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-7700xt-12g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 7700 XT 12GB",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Radeon%20RX%207700%20XT",
+      "priceVnd": 11490000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-7700xt-12g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 7700 XT 12GB",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Radeon%20RX%207700%20XT",
+      "priceVnd": 11720000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-7700xt-12g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 7700 XT 12GB",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Radeon%20RX%207700%20XT",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-7700xt-12g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 7700 XT 12GB",
+      "matchedUrl": "https://hacom.vn/tim?q=Radeon%20RX%207700%20XT",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-7700xt-12g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 7700 XT 12GB",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Radeon%20RX%207700%20XT",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rx-7700xt-12g",
+      "skuName": "Sapphire PULSE AMD Radeon RX 7700 XT 12GB",
+      "matchedUrl": "https://shopee.vn/search?keyword=Radeon%20RX%207700%20XT&facet=mall",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "gpu-rtx-4070-super-12g",
+      "skuName": "ASUS Dual GeForce RTX 4070 SUPER EVO 12GB",
+      "matchedUrl": "https://kccshop.vn/?s=GeForce%20RTX%204070%20SUPER",
+      "priceVnd": 16330000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4070-super-12g",
+      "skuName": "ASUS Dual GeForce RTX 4070 SUPER EVO 12GB",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=GeForce%20RTX%204070%20SUPER",
+      "priceVnd": 16490000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4070-super-12g",
+      "skuName": "ASUS Dual GeForce RTX 4070 SUPER EVO 12GB",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=GeForce%20RTX%204070%20SUPER",
+      "priceVnd": 16820000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4070-super-12g",
+      "skuName": "ASUS Dual GeForce RTX 4070 SUPER EVO 12GB",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=GeForce%20RTX%204070%20SUPER",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4070-super-12g",
+      "skuName": "ASUS Dual GeForce RTX 4070 SUPER EVO 12GB",
+      "matchedUrl": "https://hacom.vn/tim?q=GeForce%20RTX%204070%20SUPER",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4070-super-12g",
+      "skuName": "ASUS Dual GeForce RTX 4070 SUPER EVO 12GB",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=GeForce%20RTX%204070%20SUPER",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "gpu-rtx-4070-super-12g",
+      "skuName": "ASUS Dual GeForce RTX 4070 SUPER EVO 12GB",
+      "matchedUrl": "https://shopee.vn/search?keyword=GeForce%20RTX%204070%20SUPER&facet=mall",
+      "priceVnd": 4550000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-asus-prime-h610m",
+      "skuName": "ASUS PRIME H610M-K D4",
+      "matchedUrl": "https://kccshop.vn/?s=ASUS%20PRIME%20H610M",
+      "priceVnd": 1480000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asus-prime-h610m",
+      "skuName": "ASUS PRIME H610M-K D4",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=ASUS%20PRIME%20H610M",
+      "priceVnd": 1490000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asus-prime-h610m",
+      "skuName": "ASUS PRIME H610M-K D4",
+      "matchedUrl": "https://www.anphatpc.com.vn/mainboard-asus-prime-h610m-k-d4_id40447.html",
+      "priceVnd": 1520000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-asus-prime-h610m",
+      "skuName": "ASUS PRIME H610M-K D4",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=ASUS%20PRIME%20H610M",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asus-prime-h610m",
+      "skuName": "ASUS PRIME H610M-K D4",
+      "matchedUrl": "https://hacom.vn/tim?q=ASUS%20PRIME%20H610M",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asus-prime-h610m",
+      "skuName": "ASUS PRIME H610M-K D4",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=ASUS%20PRIME%20H610M",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asus-prime-h610m",
+      "skuName": "ASUS PRIME H610M-K D4",
+      "matchedUrl": "https://shopee.vn/search?keyword=ASUS%20PRIME%20H610M&facet=mall",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-msi-pro-b760m-p-ddr4",
+      "skuName": "MSI PRO B760M-P DDR4",
+      "matchedUrl": "https://kccshop.vn/?s=MSI%20PRO%20B760M-P%20DDR4",
+      "priceVnd": 2170000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b760m-p-ddr4",
+      "skuName": "MSI PRO B760M-P DDR4",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=MSI%20PRO%20B760M-P%20DDR4",
+      "priceVnd": 2190000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b760m-p-ddr4",
+      "skuName": "MSI PRO B760M-P DDR4",
+      "matchedUrl": "https://www.anphatpc.com.vn/mainboard-msi-pro-b760m-p-ddr4.html",
+      "priceVnd": 2230000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-msi-pro-b760m-p-ddr4",
+      "skuName": "MSI PRO B760M-P DDR4",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=MSI%20PRO%20B760M-P%20DDR4",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b760m-p-ddr4",
+      "skuName": "MSI PRO B760M-P DDR4",
+      "matchedUrl": "https://hacom.vn/tim?q=MSI%20PRO%20B760M-P%20DDR4",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b760m-p-ddr4",
+      "skuName": "MSI PRO B760M-P DDR4",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=MSI%20PRO%20B760M-P%20DDR4",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b760m-p-ddr4",
+      "skuName": "MSI PRO B760M-P DDR4",
+      "matchedUrl": "https://shopee.vn/search?keyword=MSI%20PRO%20B760M-P%20DDR4&facet=mall",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-gigabyte-b760m-d5",
+      "skuName": "GIGABYTE B760M GAMING PLUS WIFI DDR5",
+      "matchedUrl": "https://kccshop.vn/?s=B760M%20DDR5",
+      "priceVnd": 2860000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-gigabyte-b760m-d5",
+      "skuName": "GIGABYTE B760M GAMING PLUS WIFI DDR5",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=B760M%20DDR5",
+      "priceVnd": 2890000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-gigabyte-b760m-d5",
+      "skuName": "GIGABYTE B760M GAMING PLUS WIFI DDR5",
+      "matchedUrl": "https://www.anphatpc.com.vn/mainboard-gigabyte-b760m-gaming-wifi-plus-ddr5.html",
+      "priceVnd": 2950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-gigabyte-b760m-d5",
+      "skuName": "GIGABYTE B760M GAMING PLUS WIFI DDR5",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=B760M%20DDR5",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-gigabyte-b760m-d5",
+      "skuName": "GIGABYTE B760M GAMING PLUS WIFI DDR5",
+      "matchedUrl": "https://hacom.vn/tim?q=B760M%20DDR5",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-gigabyte-b760m-d5",
+      "skuName": "GIGABYTE B760M GAMING PLUS WIFI DDR5",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=B760M%20DDR5",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-gigabyte-b760m-d5",
+      "skuName": "GIGABYTE B760M GAMING PLUS WIFI DDR5",
+      "matchedUrl": "https://shopee.vn/search?keyword=B760M%20DDR5&facet=mall",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-asrock-b450m-hdv",
+      "skuName": "ASRock B450M-HDV R4.0",
+      "matchedUrl": "https://kccshop.vn/?s=ASRock%20B450M-HDV",
+      "priceVnd": 1280000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b450m-hdv",
+      "skuName": "ASRock B450M-HDV R4.0",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=ASRock%20B450M-HDV",
+      "priceVnd": 1290000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b450m-hdv",
+      "skuName": "ASRock B450M-HDV R4.0",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=ASRock%20B450M-HDV",
+      "priceVnd": 1320000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b450m-hdv",
+      "skuName": "ASRock B450M-HDV R4.0",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=ASRock%20B450M-HDV",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b450m-hdv",
+      "skuName": "ASRock B450M-HDV R4.0",
+      "matchedUrl": "https://hacom.vn/tim?q=ASRock%20B450M-HDV",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b450m-hdv",
+      "skuName": "ASRock B450M-HDV R4.0",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=ASRock%20B450M-HDV",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b450m-hdv",
+      "skuName": "ASRock B450M-HDV R4.0",
+      "matchedUrl": "https://shopee.vn/search?keyword=ASRock%20B450M-HDV&facet=mall",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-asrock-b650m-hdv",
+      "skuName": "ASRock B650M-HDV/M.2 DDR5",
+      "matchedUrl": "https://kccshop.vn/?s=ASRock%20B650M-HDV",
+      "priceVnd": 2560000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b650m-hdv",
+      "skuName": "ASRock B650M-HDV/M.2 DDR5",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=ASRock%20B650M-HDV",
+      "priceVnd": 2590000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b650m-hdv",
+      "skuName": "ASRock B650M-HDV/M.2 DDR5",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=ASRock%20B650M-HDV",
+      "priceVnd": 2640000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b650m-hdv",
+      "skuName": "ASRock B650M-HDV/M.2 DDR5",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=ASRock%20B650M-HDV",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b650m-hdv",
+      "skuName": "ASRock B650M-HDV/M.2 DDR5",
+      "matchedUrl": "https://hacom.vn/tim?q=ASRock%20B650M-HDV",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b650m-hdv",
+      "skuName": "ASRock B650M-HDV/M.2 DDR5",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=ASRock%20B650M-HDV",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-asrock-b650m-hdv",
+      "skuName": "ASRock B650M-HDV/M.2 DDR5",
+      "matchedUrl": "https://shopee.vn/search?keyword=ASRock%20B650M-HDV&facet=mall",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-msi-pro-b650m-a",
+      "skuName": "MSI PRO B650M-A WIFI DDR5",
+      "matchedUrl": "https://kccshop.vn/?s=MSI%20PRO%20B650M-A",
+      "priceVnd": 3360000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b650m-a",
+      "skuName": "MSI PRO B650M-A WIFI DDR5",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=MSI%20PRO%20B650M-A",
+      "priceVnd": 3390000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b650m-a",
+      "skuName": "MSI PRO B650M-A WIFI DDR5",
+      "matchedUrl": "https://www.anphatpc.com.vn/mainboard-msi-pro-b650m-a-wifi-ddr5.html",
+      "priceVnd": 3460000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "mb-msi-pro-b650m-a",
+      "skuName": "MSI PRO B650M-A WIFI DDR5",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=MSI%20PRO%20B650M-A",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b650m-a",
+      "skuName": "MSI PRO B650M-A WIFI DDR5",
+      "matchedUrl": "https://hacom.vn/tim?q=MSI%20PRO%20B650M-A",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b650m-a",
+      "skuName": "MSI PRO B650M-A WIFI DDR5",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=MSI%20PRO%20B650M-A",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "mb-msi-pro-b650m-a",
+      "skuName": "MSI PRO B650M-A WIFI DDR5",
+      "matchedUrl": "https://shopee.vn/search?keyword=MSI%20PRO%20B650M-A&facet=mall",
+      "priceVnd": 1430000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d4",
+      "skuName": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+      "matchedUrl": "https://kccshop.vn/?s=Kingston%20FURY%2016GB%20DDR4",
+      "priceVnd": 840000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d4",
+      "skuName": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Kingston%20FURY%2016GB%20DDR4",
+      "priceVnd": 850000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d4",
+      "skuName": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+      "matchedUrl": "https://www.anphatpc.com.vn/ram-kingston-fury-beast-rgb-16gb-2x8gb-ddr4-3200mhz-kf432c16bb2ak2/16.html",
+      "priceVnd": 870000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d4",
+      "skuName": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Kingston%20FURY%2016GB%20DDR4",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d4",
+      "skuName": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+      "matchedUrl": "https://hacom.vn/tim?q=Kingston%20FURY%2016GB%20DDR4",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d4",
+      "skuName": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Kingston%20FURY%2016GB%20DDR4",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d4",
+      "skuName": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+      "matchedUrl": "https://shopee.vn/search?keyword=Kingston%20FURY%2016GB%20DDR4&facet=mall",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ram-corsair-lpx-32gb-d4",
+      "skuName": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz",
+      "matchedUrl": "https://kccshop.vn/?s=Corsair%20LPX%2032GB%20DDR4",
+      "priceVnd": 1670000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-lpx-32gb-d4",
+      "skuName": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Corsair%20LPX%2032GB%20DDR4",
+      "priceVnd": 1690000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-lpx-32gb-d4",
+      "skuName": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Corsair%20LPX%2032GB%20DDR4",
+      "priceVnd": 1720000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-lpx-32gb-d4",
+      "skuName": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Corsair%20LPX%2032GB%20DDR4",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-lpx-32gb-d4",
+      "skuName": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz",
+      "matchedUrl": "https://hacom.vn/tim?q=Corsair%20LPX%2032GB%20DDR4",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-lpx-32gb-d4",
+      "skuName": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Corsair%20LPX%2032GB%20DDR4",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-lpx-32gb-d4",
+      "skuName": "Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz",
+      "matchedUrl": "https://shopee.vn/search?keyword=Corsair%20LPX%2032GB%20DDR4&facet=mall",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d5",
+      "skuName": "Kingston FURY Beast 16GB (1x16GB) DDR5 5600MHz",
+      "matchedUrl": "https://kccshop.vn/?s=Kingston%20FURY%2016GB%20DDR5",
+      "priceVnd": 1280000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d5",
+      "skuName": "Kingston FURY Beast 16GB (1x16GB) DDR5 5600MHz",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Kingston%20FURY%2016GB%20DDR5",
+      "priceVnd": 1290000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d5",
+      "skuName": "Kingston FURY Beast 16GB (1x16GB) DDR5 5600MHz",
+      "matchedUrl": "https://www.anphatpc.com.vn/ram-kingston-fury-beast-16gb-1x16gb-ddr5-5600mhz-kf552c40bb-16wp.html",
+      "priceVnd": 1320000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d5",
+      "skuName": "Kingston FURY Beast 16GB (1x16GB) DDR5 5600MHz",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Kingston%20FURY%2016GB%20DDR5",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d5",
+      "skuName": "Kingston FURY Beast 16GB (1x16GB) DDR5 5600MHz",
+      "matchedUrl": "https://hacom.vn/tim?q=Kingston%20FURY%2016GB%20DDR5",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d5",
+      "skuName": "Kingston FURY Beast 16GB (1x16GB) DDR5 5600MHz",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Kingston%20FURY%2016GB%20DDR5",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-kingston-fury-16gb-d5",
+      "skuName": "Kingston FURY Beast 16GB (1x16GB) DDR5 5600MHz",
+      "matchedUrl": "https://shopee.vn/search?keyword=Kingston%20FURY%2016GB%20DDR5&facet=mall",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ram-corsair-vengeance-32gb-d5",
+      "skuName": "Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz",
+      "matchedUrl": "https://kccshop.vn/?s=Corsair%20Vengeance%2032GB%20DDR5",
+      "priceVnd": 2470000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-vengeance-32gb-d5",
+      "skuName": "Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Corsair%20Vengeance%2032GB%20DDR5",
+      "priceVnd": 2490000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-vengeance-32gb-d5",
+      "skuName": "Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz",
+      "matchedUrl": "https://www.anphatpc.com.vn/ram-corsair-vengeance-rgb-32gb-2x16gb-ddr5-bus-6000mhz-black-cmh32gx5m2e6000c36.html",
+      "priceVnd": 2540000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ram-corsair-vengeance-32gb-d5",
+      "skuName": "Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Corsair%20Vengeance%2032GB%20DDR5",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-vengeance-32gb-d5",
+      "skuName": "Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz",
+      "matchedUrl": "https://hacom.vn/tim?q=Corsair%20Vengeance%2032GB%20DDR5",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-vengeance-32gb-d5",
+      "skuName": "Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Corsair%20Vengeance%2032GB%20DDR5",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ram-corsair-vengeance-32gb-d5",
+      "skuName": "Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz",
+      "matchedUrl": "https://shopee.vn/search?keyword=Corsair%20Vengeance%2032GB%20DDR5&facet=mall",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-500g",
+      "skuName": "Kingston NV2 500GB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://kccshop.vn/?s=Kingston%20NV2%20500GB",
+      "priceVnd": 940000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-500g",
+      "skuName": "Kingston NV2 500GB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Kingston%20NV2%20500GB",
+      "priceVnd": 950000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-500g",
+      "skuName": "Kingston NV2 500GB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Kingston%20NV2%20500GB",
+      "priceVnd": 970000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-500g",
+      "skuName": "Kingston NV2 500GB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Kingston%20NV2%20500GB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-500g",
+      "skuName": "Kingston NV2 500GB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://hacom.vn/tim?q=Kingston%20NV2%20500GB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-500g",
+      "skuName": "Kingston NV2 500GB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Kingston%20NV2%20500GB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-500g",
+      "skuName": "Kingston NV2 500GB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://shopee.vn/search?keyword=Kingston%20NV2%20500GB&facet=mall",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-1tb",
+      "skuName": "Kingston NV2 1TB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://kccshop.vn/?s=Kingston%20NV2%201TB",
+      "priceVnd": 1480000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-1tb",
+      "skuName": "Kingston NV2 1TB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Kingston%20NV2%201TB",
+      "priceVnd": 1490000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-1tb",
+      "skuName": "Kingston NV2 1TB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Kingston%20NV2%201TB",
+      "priceVnd": 1520000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-1tb",
+      "skuName": "Kingston NV2 1TB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Kingston%20NV2%201TB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-1tb",
+      "skuName": "Kingston NV2 1TB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://hacom.vn/tim?q=Kingston%20NV2%201TB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-1tb",
+      "skuName": "Kingston NV2 1TB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Kingston%20NV2%201TB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-kingston-nv2-1tb",
+      "skuName": "Kingston NV2 1TB PCIe 4.0 NVMe M.2",
+      "matchedUrl": "https://shopee.vn/search?keyword=Kingston%20NV2%201TB&facet=mall",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "ssd-samsung-980-1tb",
+      "skuName": "Samsung 980 1TB PCIe 3.0 NVMe M.2",
+      "matchedUrl": "https://kccshop.vn/?s=Samsung%20980%201TB",
+      "priceVnd": 1870000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-samsung-980-1tb",
+      "skuName": "Samsung 980 1TB PCIe 3.0 NVMe M.2",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Samsung%20980%201TB",
+      "priceVnd": 1890000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-samsung-980-1tb",
+      "skuName": "Samsung 980 1TB PCIe 3.0 NVMe M.2",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Samsung%20980%201TB",
+      "priceVnd": 1930000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-samsung-980-1tb",
+      "skuName": "Samsung 980 1TB PCIe 3.0 NVMe M.2",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Samsung%20980%201TB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-samsung-980-1tb",
+      "skuName": "Samsung 980 1TB PCIe 3.0 NVMe M.2",
+      "matchedUrl": "https://hacom.vn/tim?q=Samsung%20980%201TB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-samsung-980-1tb",
+      "skuName": "Samsung 980 1TB PCIe 3.0 NVMe M.2",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Samsung%20980%201TB",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "ssd-samsung-980-1tb",
+      "skuName": "Samsung 980 1TB PCIe 3.0 NVMe M.2",
+      "matchedUrl": "https://shopee.vn/search?keyword=Samsung%20980%201TB&facet=mall",
+      "priceVnd": 910000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "psu-antec-atom-550w",
+      "skuName": "Antec ATOM V550 550W",
+      "matchedUrl": "https://kccshop.vn/?s=Antec%20ATOM%20V550",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-antec-atom-550w",
+      "skuName": "Antec ATOM V550 550W",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Antec%20ATOM%20V550",
+      "priceVnd": 790000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-antec-atom-550w",
+      "skuName": "Antec ATOM V550 550W",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Antec%20ATOM%20V550",
+      "priceVnd": 810000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-antec-atom-550w",
+      "skuName": "Antec ATOM V550 550W",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Antec%20ATOM%20V550",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-antec-atom-550w",
+      "skuName": "Antec ATOM V550 550W",
+      "matchedUrl": "https://hacom.vn/tim?q=Antec%20ATOM%20V550",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-antec-atom-550w",
+      "skuName": "Antec ATOM V550 550W",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Antec%20ATOM%20V550",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-antec-atom-550w",
+      "skuName": "Antec ATOM V550 550W",
+      "matchedUrl": "https://shopee.vn/search?keyword=Antec%20ATOM%20V550&facet=mall",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "psu-deepcool-pk650d",
+      "skuName": "DeepCool PK650D 650W 80 Plus Bronze",
+      "matchedUrl": "https://kccshop.vn/?s=DeepCool%20PK650D",
+      "priceVnd": 1180000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-deepcool-pk650d",
+      "skuName": "DeepCool PK650D 650W 80 Plus Bronze",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=DeepCool%20PK650D",
+      "priceVnd": 1190000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-deepcool-pk650d",
+      "skuName": "DeepCool PK650D 650W 80 Plus Bronze",
+      "matchedUrl": "https://www.anphatpc.com.vn/nguon-may-tinh-deepcool-pk650d-650w-80plus-bronze.html",
+      "priceVnd": 1210000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 57,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "psu-deepcool-pk650d",
+      "skuName": "DeepCool PK650D 650W 80 Plus Bronze",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=DeepCool%20PK650D",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-deepcool-pk650d",
+      "skuName": "DeepCool PK650D 650W 80 Plus Bronze",
+      "matchedUrl": "https://hacom.vn/tim?q=DeepCool%20PK650D",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-deepcool-pk650d",
+      "skuName": "DeepCool PK650D 650W 80 Plus Bronze",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=DeepCool%20PK650D",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-deepcool-pk650d",
+      "skuName": "DeepCool PK650D 650W 80 Plus Bronze",
+      "matchedUrl": "https://shopee.vn/search?keyword=DeepCool%20PK650D&facet=mall",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "psu-msi-mag-a750bn",
+      "skuName": "MSI MAG A750BN 750W 80 Plus Bronze PCIE5",
+      "matchedUrl": "https://kccshop.vn/?s=MSI%20MAG%20A750BN",
+      "priceVnd": 1480000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-msi-mag-a750bn",
+      "skuName": "MSI MAG A750BN 750W 80 Plus Bronze PCIE5",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=MSI%20MAG%20A750BN",
+      "priceVnd": 1490000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-msi-mag-a750bn",
+      "skuName": "MSI MAG A750BN 750W 80 Plus Bronze PCIE5",
+      "matchedUrl": "https://www.anphatpc.com.vn/nguon-may-tinh-msi-mag-a750bn-pcie-5.0-750w-80-plus-bronze-atx-3.0.html",
+      "priceVnd": 1520000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "psu-msi-mag-a750bn",
+      "skuName": "MSI MAG A750BN 750W 80 Plus Bronze PCIE5",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=MSI%20MAG%20A750BN",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-msi-mag-a750bn",
+      "skuName": "MSI MAG A750BN 750W 80 Plus Bronze PCIE5",
+      "matchedUrl": "https://hacom.vn/tim?q=MSI%20MAG%20A750BN",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-msi-mag-a750bn",
+      "skuName": "MSI MAG A750BN 750W 80 Plus Bronze PCIE5",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=MSI%20MAG%20A750BN",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "psu-msi-mag-a750bn",
+      "skuName": "MSI MAG A750BN 750W 80 Plus Bronze PCIE5",
+      "matchedUrl": "https://shopee.vn/search?keyword=MSI%20MAG%20A750BN&facet=mall",
+      "priceVnd": 715000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "case-xigmatek-nyx-air",
+      "skuName": "Xigmatek NYX Air 3F (Black, mATX)",
+      "matchedUrl": "https://kccshop.vn/?s=Xigmatek%20NYX%20Air%203F",
+      "priceVnd": 580000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-xigmatek-nyx-air",
+      "skuName": "Xigmatek NYX Air 3F (Black, mATX)",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Xigmatek%20NYX%20Air%203F",
+      "priceVnd": 590000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-xigmatek-nyx-air",
+      "skuName": "Xigmatek NYX Air 3F (Black, mATX)",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Xigmatek%20NYX%20Air%203F",
+      "priceVnd": 600000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-xigmatek-nyx-air",
+      "skuName": "Xigmatek NYX Air 3F (Black, mATX)",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Xigmatek%20NYX%20Air%203F",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-xigmatek-nyx-air",
+      "skuName": "Xigmatek NYX Air 3F (Black, mATX)",
+      "matchedUrl": "https://hacom.vn/tim?q=Xigmatek%20NYX%20Air%203F",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-xigmatek-nyx-air",
+      "skuName": "Xigmatek NYX Air 3F (Black, mATX)",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Xigmatek%20NYX%20Air%203F",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-xigmatek-nyx-air",
+      "skuName": "Xigmatek NYX Air 3F (Black, mATX)",
+      "matchedUrl": "https://shopee.vn/search?keyword=Xigmatek%20NYX%20Air%203F&facet=mall",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "case-montech-air-100",
+      "skuName": "Montech AIR 100 LITE Black (mATX, Siêu êm)",
+      "matchedUrl": "https://kccshop.vn/?s=Montech%20AIR%20100%20LITE",
+      "priceVnd": 780000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-montech-air-100",
+      "skuName": "Montech AIR 100 LITE Black (mATX, Siêu êm)",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=Montech%20AIR%20100%20LITE",
+      "priceVnd": 790000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-montech-air-100",
+      "skuName": "Montech AIR 100 LITE Black (mATX, Siêu êm)",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=Montech%20AIR%20100%20LITE",
+      "priceVnd": 810000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-montech-air-100",
+      "skuName": "Montech AIR 100 LITE Black (mATX, Siêu êm)",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=Montech%20AIR%20100%20LITE",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-montech-air-100",
+      "skuName": "Montech AIR 100 LITE Black (mATX, Siêu êm)",
+      "matchedUrl": "https://hacom.vn/tim?q=Montech%20AIR%20100%20LITE",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-montech-air-100",
+      "skuName": "Montech AIR 100 LITE Black (mATX, Siêu êm)",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=Montech%20AIR%20100%20LITE",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-montech-air-100",
+      "skuName": "Montech AIR 100 LITE Black (mATX, Siêu êm)",
+      "matchedUrl": "https://shopee.vn/search?keyword=Montech%20AIR%20100%20LITE&facet=mall",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    },
+    {
+      "skuId": "case-sama-3301",
+      "skuName": "SAMA 3301 Black (mATX/ATX, Rộng rãi)",
+      "matchedUrl": "https://kccshop.vn/?s=SAMA%203301",
+      "priceVnd": 840000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-sama-3301",
+      "skuName": "SAMA 3301 Black (mATX/ATX, Rộng rãi)",
+      "matchedUrl": "https://memoryzone.com.vn/search?q=SAMA%203301",
+      "priceVnd": 850000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-sama-3301",
+      "skuName": "SAMA 3301 Black (mATX/ATX, Rộng rãi)",
+      "matchedUrl": "https://www.anphatpc.com.vn/tim?q=SAMA%203301",
+      "priceVnd": 870000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-sama-3301",
+      "skuName": "SAMA 3301 Black (mATX/ATX, Rộng rãi)",
+      "matchedUrl": "https://gearvn.com/search?type=product&q=SAMA%203301",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-sama-3301",
+      "skuName": "SAMA 3301 Black (mATX/ATX, Rộng rãi)",
+      "matchedUrl": "https://hacom.vn/tim?q=SAMA%203301",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-sama-3301",
+      "skuName": "SAMA 3301 Black (mATX/ATX, Rộng rãi)",
+      "matchedUrl": "https://tiki.vn/api/v2/products?limit=10&q=SAMA%203301",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 65,
+      "status": "FALLBACK"
+    },
+    {
+      "skuId": "case-sama-3301",
+      "skuName": "SAMA 3301 Black (mATX/ATX, Rộng rãi)",
+      "matchedUrl": "https://shopee.vn/search?keyword=SAMA%203301&facet=mall",
+      "priceVnd": 585000,
+      "stock": "IN_STOCK",
+      "confidenceScore": 80,
+      "status": "FOUND"
+    }
+  ]
+}

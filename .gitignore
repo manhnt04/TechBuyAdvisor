@@ -2,3 +2,7 @@ node_modules
 .next
 out
 .env*
+tsconfig.tsbuildinfo
+.codegraph/
+.DS_Store
+Thumbs.db
